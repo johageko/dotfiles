@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = joachim.kolb@gmail.com
+	name = Joachim Kolb
